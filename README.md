@@ -1,2 +1,2 @@
 # AIICTC_Internship
-Deforestation detection
+smart irrigation
